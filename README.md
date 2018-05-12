@@ -1,18 +1,19 @@
 # Learning Javascript :: ES6로 제대로 입문하는 모던 자바스크립트 웹 개발
-
+  
 책을 진행하면서 테스트용 파일 업로드
-
+  
+  
 ---------------------------------------
-
+  
 ## gulp, babel, ESLint
-
+  
 ### gulp(걸프)
 - 자동화도구 (grunt도 많이 쓰임)
 - package name : gulp
 ```
 $ npm install --save-dev gulp
 ```
-<br />
+  
 ### babel(바벨)
 - ES6로 트랜스컴파일(transcompile)하는 패키지. 트레이서(traceur)도 많이 쓰임
 - package name : babel-preset-es2015
@@ -23,7 +24,7 @@ $ npm install --save-dev babel-preset-es2015
 ```
 { "presets": ["es2015"] }
 ```
-<br />
+  
 #### 바벨(babel)을 걸프(gulp)와 함께 사용하기
 - 바벨을 걸프에 연결할 패키지를 설치
 ```
@@ -45,7 +46,7 @@ $ npm install --save-dev babel-core
 ```
 $ gulp
 ```
-<br />
+  
 ### ESLint
 - Javascript의 문법을 체크하는 패키지
 ```
@@ -72,8 +73,8 @@ $ npm install --save-dev gulp-eslint
 "no-console": "off",
 "no-undef": "off"
 ```
-<br />
-<br />
+  
+  
 여기까지 최종 설치된 패키지의 목록은 다음과 같다. (package.json 참고)
 ```
 "babel-core": "^6.26.3",
