@@ -1,13 +1,11 @@
 # Learning Javascript :: ES6로 제대로 입문하는 모던 자바스크립트 웹 개발
 
 책을 진행하면서 테스트용 파일 업로드
-<br />
-<br />
-<br />
-<br />
-<br />
+
+---------------------------------------
+
 ## gulp, babel, ESLint
-<br />
+
 ### gulp(걸프)
 - 자동화도구 (grunt도 많이 쓰임)
 - package name : gulp
