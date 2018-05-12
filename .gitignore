@@ -3,3 +3,7 @@
 
 # 프로젝트 의존성
 node_modules
+
+# ES6
+dist
+public/dist

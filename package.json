@@ -1,0 +1,25 @@
+{
+  "name": "es6_learning_js",
+  "version": "1.0.0",
+  "description": "## Learning Javascript :: ES6로 제대로 입문하는 모던 자바스크립트 웹 개발",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/doorjeong/ES6_learning_JS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/doorjeong/ES6_learning_JS/issues"
+  },
+  "homepage": "https://github.com/doorjeong/ES6_learning_JS#readme",
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-preset-es2015": "^6.24.1",
+    "gulp": "^3.9.1",
+    "gulp-babel": "^7.0.1"
+  }
+}
